@@ -13,5 +13,14 @@ public class Demo {
 	public void run()
 	{
 		Reporter.log("Test Running successfully",true);
+		Reporter.log("Test Running successfully",true);
+		Reporter.log("Test Running successfully",true);
+		Reporter.log("Test Running successfully",true);
+		Reporter.log("Test Running successfully",true);
+		Reporter.log("Test Running successfully",true);
+		Reporter.log("Test Running successfully",true);
+		Reporter.log("Test Running successfully",true);
+		Reporter.log("Test Running successfully",true);
+		
 	}
 }
