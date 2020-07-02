@@ -1,10 +1,12 @@
 package com.actitime.login;
 
 import org.testng.Reporter;
+import org.testng.annotations.Test;
 
 public class Sumo {
 
-	public static void main(String[] args) {
+@Test
+public void run() {
 		Reporter.log("Raghav",true);
 		
 		
