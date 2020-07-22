@@ -5,6 +5,7 @@
     <classes>
       <class name="com.actitime.login.Demo"/>
       <class name="com.actitime.login.Remo"/>
+       <class name="com.actitime.login.Sumo"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

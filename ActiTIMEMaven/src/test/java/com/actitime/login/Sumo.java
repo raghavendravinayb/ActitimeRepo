@@ -9,7 +9,7 @@ public class Sumo {
 public void run() {
 		Reporter.log("Raghav",true);
 		
-		
+		Reporter.log("Hello Raghava",true);
 		
 	}
 
